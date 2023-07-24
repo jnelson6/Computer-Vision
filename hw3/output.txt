@@ -1,0 +1,152 @@
+
+
+==============================
+Classification using 4 bins:
+------------------------------
+Test image 1 of class <forest> has been assigned to class <forest>
+Test image 4 of class <coast> has been assigned to class <coast>
+Test image 3 of class <forest> has been assigned to class <forest>
+Test image 2 of class <insidecity> has been assigned to class <insidecity>
+Test image 4 of class <forest> has been assigned to class <forest>
+Test image 3 of class <coast> has been assigned to class <coast>
+Test image 1 of class <coast> has been assigned to class <coast>
+Test image 2 of class <coast> has been assigned to class <coast>
+Test image 3 of class <insidecity> has been assigned to class <insidecity>
+Test image 4 of class <insidecity> has been assigned to class <coast>
+Test image 2 of class <forest> has been assigned to class <forest>
+Test image 1 of class <insidecity> has been assigned to class <forest>
+~~~~~~~~~~~~~~~~~~~~~
+Test Accuracy(bins=4, k=1): 83.33%
+
+
+==============================
+Classification using 4 bins:
+------------------------------
+Test image 1 of class <forest> has been assigned to class <forest>
+Test image 4 of class <coast> has been assigned to class <coast>
+Test image 3 of class <forest> has been assigned to class <forest>
+Test image 2 of class <insidecity> has been assigned to class <coast>
+Test image 4 of class <forest> has been assigned to class <insidecity>
+Test image 3 of class <coast> has been assigned to class <coast>
+Test image 1 of class <coast> has been assigned to class <coast>
+Test image 2 of class <coast> has been assigned to class <coast>
+Test image 3 of class <insidecity> has been assigned to class <insidecity>
+Test image 4 of class <insidecity> has been assigned to class <coast>
+Test image 2 of class <forest> has been assigned to class <insidecity>
+Test image 1 of class <insidecity> has been assigned to class <forest>
+~~~~~~~~~~~~~~~~~~~~~
+Test Accuracy(bins=4, k=3): 58.33%
+
+
+==============================
+Classification using 8 bins:
+------------------------------
+Test image 1 of class <forest> has been assigned to class <forest>
+Test image 4 of class <coast> has been assigned to class <coast>
+Test image 3 of class <forest> has been assigned to class <forest>
+Test image 2 of class <insidecity> has been assigned to class <coast>
+Test image 4 of class <forest> has been assigned to class <forest>
+Test image 3 of class <coast> has been assigned to class <coast>
+Test image 1 of class <coast> has been assigned to class <coast>
+Test image 2 of class <coast> has been assigned to class <coast>
+Test image 3 of class <insidecity> has been assigned to class <insidecity>
+Test image 4 of class <insidecity> has been assigned to class <insidecity>
+Test image 2 of class <forest> has been assigned to class <forest>
+Test image 1 of class <insidecity> has been assigned to class <forest>
+~~~~~~~~~~~~~~~~~~~~~
+Test Accuracy(bins=8, k=1): 83.33%
+
+
+==============================
+Classification using 8 bins:
+------------------------------
+Test image 1 of class <forest> has been assigned to class <forest>
+Test image 4 of class <coast> has been assigned to class <coast>
+Test image 3 of class <forest> has been assigned to class <forest>
+Test image 2 of class <insidecity> has been assigned to class <coast>
+Test image 4 of class <forest> has been assigned to class <insidecity>
+Test image 3 of class <coast> has been assigned to class <coast>
+Test image 1 of class <coast> has been assigned to class <coast>
+Test image 2 of class <coast> has been assigned to class <coast>
+Test image 3 of class <insidecity> has been assigned to class <forest>
+Test image 4 of class <insidecity> has been assigned to class <coast>
+Test image 2 of class <forest> has been assigned to class <coast>
+Test image 1 of class <insidecity> has been assigned to class <forest>
+~~~~~~~~~~~~~~~~~~~~~
+Test Accuracy(bins=8, k=3): 50.00%
+
+
+==============================
+Classification using 16 bins:
+------------------------------
+Test image 1 of class <forest> has been assigned to class <forest>
+Test image 4 of class <coast> has been assigned to class <coast>
+Test image 3 of class <forest> has been assigned to class <forest>
+Test image 2 of class <insidecity> has been assigned to class <forest>
+Test image 4 of class <forest> has been assigned to class <forest>
+Test image 3 of class <coast> has been assigned to class <coast>
+Test image 1 of class <coast> has been assigned to class <coast>
+Test image 2 of class <coast> has been assigned to class <coast>
+Test image 3 of class <insidecity> has been assigned to class <forest>
+Test image 4 of class <insidecity> has been assigned to class <forest>
+Test image 2 of class <forest> has been assigned to class <forest>
+Test image 1 of class <insidecity> has been assigned to class <forest>
+~~~~~~~~~~~~~~~~~~~~~
+Test Accuracy(bins=16, k=1): 66.67%
+
+
+==============================
+Classification using 16 bins:
+------------------------------
+Test image 1 of class <forest> has been assigned to class <forest>
+Test image 4 of class <coast> has been assigned to class <coast>
+Test image 3 of class <forest> has been assigned to class <forest>
+Test image 2 of class <insidecity> has been assigned to class <forest>
+Test image 4 of class <forest> has been assigned to class <coast>
+Test image 3 of class <coast> has been assigned to class <coast>
+Test image 1 of class <coast> has been assigned to class <coast>
+Test image 2 of class <coast> has been assigned to class <coast>
+Test image 3 of class <insidecity> has been assigned to class <forest>
+Test image 4 of class <insidecity> has been assigned to class <insidecity>
+Test image 2 of class <forest> has been assigned to class <coast>
+Test image 1 of class <insidecity> has been assigned to class <forest>
+~~~~~~~~~~~~~~~~~~~~~
+Test Accuracy(bins=16, k=3): 58.33%
+
+
+==============================
+Classification using 32 bins:
+------------------------------
+Test image 1 of class <forest> has been assigned to class <forest>
+Test image 4 of class <coast> has been assigned to class <coast>
+Test image 3 of class <forest> has been assigned to class <forest>
+Test image 2 of class <insidecity> has been assigned to class <forest>
+Test image 4 of class <forest> has been assigned to class <forest>
+Test image 3 of class <coast> has been assigned to class <coast>
+Test image 1 of class <coast> has been assigned to class <coast>
+Test image 2 of class <coast> has been assigned to class <coast>
+Test image 3 of class <insidecity> has been assigned to class <forest>
+Test image 4 of class <insidecity> has been assigned to class <insidecity>
+Test image 2 of class <forest> has been assigned to class <forest>
+Test image 1 of class <insidecity> has been assigned to class <forest>
+~~~~~~~~~~~~~~~~~~~~~
+Test Accuracy(bins=32, k=1): 75.00%
+
+
+==============================
+Classification using 32 bins:
+------------------------------
+Test image 1 of class <forest> has been assigned to class <forest>
+Test image 4 of class <coast> has been assigned to class <coast>
+Test image 3 of class <forest> has been assigned to class <forest>
+Test image 2 of class <insidecity> has been assigned to class <forest>
+Test image 4 of class <forest> has been assigned to class <coast>
+Test image 3 of class <coast> has been assigned to class <coast>
+Test image 1 of class <coast> has been assigned to class <coast>
+Test image 2 of class <coast> has been assigned to class <coast>
+Test image 3 of class <insidecity> has been assigned to class <forest>
+Test image 4 of class <insidecity> has been assigned to class <insidecity>
+Test image 2 of class <forest> has been assigned to class <coast>
+Test image 1 of class <insidecity> has been assigned to class <forest>
+~~~~~~~~~~~~~~~~~~~~~
+Test Accuracy(bins=32, k=3): 58.33%
